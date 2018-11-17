@@ -21,6 +21,6 @@ Run with default augments:<br />
 
 Run ```python3 main.py -h``` for more help.<br />
 
-## result:<br />
+## Result:<br />
 ![alt text](https://github.com/SHENG-KAI-HUANG/show_optical_flow_in_line/blob/master/readme_image/output.jpg)<br />
 Those lines length mean optical flow vector magnitude and direction mean optical flow vectore direction.
