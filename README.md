@@ -18,9 +18,8 @@ It will save an JPG image named 'output.jpg' and create a windows to show the re
 
 Run with default augments:<br />
 ```python3 main.py <path/to/pfm> <path/to/image>```<br />
-or
-Run ```python3 main.py -h``` for more help.
 
+Run ```python3 main.py -h``` for more help.<br />
 
 It will create a windows to show the result like this.<br />
 ![alt text](https://github.com/SHENG-KAI-HUANG/show_optical_flow_in_line/blob/master/readme_image/output.jpg)<br />
