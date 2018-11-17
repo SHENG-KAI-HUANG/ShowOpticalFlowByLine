@@ -3,7 +3,7 @@ If there are any bug, please feel free to post an issue.<br />
 
 Coding and testing by Anaconda in Windows 10 with python 3.6.5.<br />
 
-Please install following package before using this code:<br />
+Please make sure already install following package before using this repository:<br />
 1. opencv<br />
 2. numpy<br />
 3. argparse<br />
