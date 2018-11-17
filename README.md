@@ -1,5 +1,4 @@
-### show_optical_flow_in_line
-This is python3 code to show optical flow in line.<br />
+This is python3 code to show optical flow by line.<br />
 If there are anything don't understand or bug, please feel free to post an issue.<br />
 
 Coding and testing by Anaconda in Windows 10 with python 3.6.5.<br />
