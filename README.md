@@ -21,4 +21,4 @@ Run python3 main.py -h for more help.
 
 It will create a windows to show the result like this.<br />
 ![alt text](https://github.com/SHENG-KAI-HUANG/show_optical_flow_in_line/blob/master/readme_image/output.jpg)<br />
-Those line length means optical flow vector magnitude and line direction means optical flow vectore direction.
+Those lines length mean optical flow vector magnitude and direction mean optical flow vectore direction.
