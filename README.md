@@ -11,7 +11,10 @@ Please install following package before using this code:<br />
 ## How to using this code:
 In this project will have a sample .pfm and a sample .png to show how to use this code.<br />
 These .pfm and .png are download from [Monkaa scene flow dataset sample pack](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)<br /> 
-you can also find original code about how to read .pfm by python from the above website.<br /> 
+You can also find original code about how to read .pfm by python from the above website.<br /> 
+
+You can run ```python3 main.py 0048.pfm 0048.png``` immediately after you download this repository.<br /> 
+It will save an JPG image named 'output.jpg' and create a windows to show the result.<br />  
 
 Run with default augments:<br />
 ```python3 main.py <path/to/pfm> <path/to/image>```<br />
