@@ -14,9 +14,9 @@ These .pfm and .png are download from [Monkaa scene flow dataset sample pack](ht
 you can also find original code about how to read .pfm by python from the above website.<br /> 
 
 Run with default augments:<br />
-python3 main.py <path/to/pfm> <path/to/image><br />
+```python3 main.py <path/to/pfm> <path/to/image>```<br />
 or
-Run python3 main.py -h for more help.
+Run ```python3 main.py -h``` for more help.
 
 
 It will create a windows to show the result like this.<br />
